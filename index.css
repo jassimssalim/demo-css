@@ -1,3 +1,13 @@
-.t1 {
-    color: red;
+#title {
+	color: rgb(186, 133, 9);
+	font-family: "Sarabun", sans-serif;
+}
+
+.subtitle {
+    color:blue
+}
+
+li:first-child {
+    color:green;
+    background-color: red;
 }
